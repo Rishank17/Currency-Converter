@@ -2,7 +2,7 @@
 
 A sleek, responsive, and real-time Currency Converter web application built using HTML5, CSS3, and modern JavaScript (ES6+). This application allows users to instantly convert values between different global currencies with up-to-date exchange rates.
 
-## ✨ Features
+## ✨ Features##
 * **Real-Time Conversion:** Fetches live, accurate exchange rates using a reliable public API.
 * **Dynamic Flag Updates:** Automatically updates country flags when a new currency is selected via the [FlagsAPI](https://flagsapi.com/).
 * **Smart Input Validation:** Automatically handles empty or invalid currency amounts by defaulting gracefully to `1`.
